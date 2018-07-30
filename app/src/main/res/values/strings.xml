@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Teko Maps</string>
+    <string name="access_token">pk.eyJ1IjoiYWRlb2dvIiwiYSI6ImNqaGZkdWg4eDBvdGEzZHBlcXR4MXZiYWwifQ.e8EQL1vogKhP-rRO82Qymg</string>
+    <string name="mpaquest_key">3obG2zqwNicScurHGF1X28I4VGzjb67V</string>
+
+</resources>
