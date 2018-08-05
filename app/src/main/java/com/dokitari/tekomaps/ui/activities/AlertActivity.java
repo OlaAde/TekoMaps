@@ -53,11 +53,10 @@ public class AlertActivity extends AppCompatActivity implements AlertAdapter.Onc
 
     public void setDummyLocations(){
         List<AlertLocation> locations = new ArrayList<>();
-        locations.add(new AlertLocation(55.8163, 49.0938, "Energy University Kazan"));
-        locations.add(new AlertLocation(55.8163, 49.0938, "Energy University Kazan"));
-        locations.add(new AlertLocation(55.8163, 49.0938, "Energy University Kazan"));
-        locations.add(new AlertLocation(55.8163, 49.0938, "Energy University Kazan"));
-
+        locations.add(new AlertLocation(55.8163, 49.0938, "Address 1"));
+        locations.add(new AlertLocation(56.8163, 50.0938, "Address 2"));
+        locations.add(new AlertLocation(55.8163, 51.0938, "Address 3"));
+        locations.add(new AlertLocation(57.8163, 53.0938, "Address 4"));
         mAdapter.setQuestions(locations);
     }
 }

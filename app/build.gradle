@@ -41,6 +41,8 @@ dependencies {
     implementation 'com.jakewharton:butterknife:8.8.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 
+    //Permission
+    implementation 'com.karumi:dexter:5.0.0'
     //Location
     implementation 'com.github.prabhat1707:EasyWayLocation:1.0'
 
